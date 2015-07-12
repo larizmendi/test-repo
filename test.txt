@@ -1,1 +1,2 @@
-Documento de texto para pruebas
+# Texto de prueba
+Notación Markdown para el texto de pruebas
